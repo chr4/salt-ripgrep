@@ -2,7 +2,9 @@
 
 This salt formula installs `ripgrep` (`rg`).
 
+While FORMULA lists Debian and Ubuntu as supported distributions, this should work with every distribution on amd64.
+
 
 ## TODO
 
-- Automatically adjust version or get version from Pillar
+- Get version and arch from pillar.

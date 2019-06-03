@@ -1,4 +1,4 @@
-{% set version = '0.8.1' %}
+{% set version = '11.0.1' %}
 
 ripgrep:
   pkg.installed:
